@@ -1,0 +1,129 @@
+html{
+    display: flex;
+    justify-content: center;
+}
+body{
+    width: 1100px;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+header{
+    width: 1100px;
+    background-color: brown;
+    height: 200px;
+    display: flex;
+}
+#LOGO{
+    width: 300px;
+    height: 200px;
+    background-color: black;
+}
+#MENU{
+    width: 800px;
+    height: 200px;
+    background-color: chartreuse;
+}
+a.link{
+    text-decoration: none;
+    color: black;
+    padding: 15px;
+}
+a.hover{
+    text-decoration: none;
+    color: aqua;
+    background-color: darkgreen;
+    color: crimson;
+    padding: 15px;
+}
+main{
+    display: flex;
+}
+article{
+    height: 810px;
+    width: 300px;
+    background-color: darkred;
+}
+aside{
+    height: 800px;
+    width: 800px;
+    background-color: aqua;
+}
+#contenedor1{
+    display: flex;
+    background-color: darkorchid;
+    height: 200px;
+    width: 760px;
+    margin: 20px;
+}
+.caja1{
+    background-color: dodgerblue;
+    height: 200px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja2{
+    background-color: chocolate;
+    height: 2000px;
+    width: 510px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#contenedor2{
+    display: flex;
+    background-color: darkorchid;
+    height: 200px;
+    width: 760px;
+    margin: 20px;
+}
+.caja3{
+    background-color: dodgerblue;
+    height: 200px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja4{
+        background-color: chocolate;
+        height: 200px;
+        width: 510px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+#contenedor3{
+    display: flex;
+    background-color: darkorchid;
+    height: 200px;
+    width: 760px;
+    margin: 20px;
+}
+.caja5{
+    background-color: dodgerblue;
+    height: 200px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.caja6{
+        background-color: chocolate;
+        height: 200px;
+        width: 510px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+}
+.texto1{
+    font-family: santaigo;
+}
+.texto2{
+    font-family: alexis;
+}
+.texto3{
+    font-family: mata;
+}
